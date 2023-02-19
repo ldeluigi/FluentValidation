@@ -158,6 +158,7 @@ public class SharedConditionTests {
 			});
 		}
 
+		[Obsolete]
 		protected override void EnsureInstanceNotNull(string instanceToValidate) {
 			//bad.
 		}
@@ -174,6 +175,7 @@ public class SharedConditionTests {
 			});
 		}
 
+		[Obsolete]
 		protected override void EnsureInstanceNotNull(string instanceToValidate) {
 			//bad.
 		}
